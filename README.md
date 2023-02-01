@@ -1,2 +1,2 @@
-# projeto-web-lh-pets-vers-o
+# Projeto Web Lh Pets Verso
 SENAI - SP
